@@ -1,5 +1,5 @@
 
-# Universal Text Extractor
+# Universal Text Data Extractor
 
 This is a Python-based universal text extraction and cleaning tool that supports multiple file formats and both digital and scanned documents. It is designed to extract text from the following file types:
 
