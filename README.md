@@ -1,6 +1,4 @@
-Sure! Here's the complete `README.md` content in Markdown format:
 
-````markdown
 # Universal Text Extractor
 
 This is a Python-based universal text extraction and cleaning tool that supports multiple file formats and both digital and scanned documents. It is designed to extract text from the following file types:
